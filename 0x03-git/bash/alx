@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-#1/bin/bash
-=======
 #!/bin/bash
->>>>>>> main
 echo "ALX School is cool!"
